@@ -1,0 +1,137 @@
+---
+layout: default
+title: Home
+navigation_weight: 1
+permalink: /
+description: ""
+---
+<header>
+  <div class="header-content">
+    <div class="header-content-inner">
+      <h1 class="home-heading">Art Brock</h1>
+      <hr style="margin-bottom: 1em;"/>
+      <p class="header-text">Arthur Brock builds targeted currencies which shape the social dynamics of our emerging post-industrial economy.<br><br>"I believe that humanity has much greater capacities than we currently employ. I am working to unleash those capacities for the mutual benefit of all."</p>
+      <p><a href="#about" class="btn btn-primary btn-xl page-scroll">Explore</a></p>
+    </div>
+  </div>
+</header>
+<section class="bg-primary" id="about">
+  <div class="container">
+    <div class="row text-center">
+      <h2 class="section-heading">Recent Projects</h2>
+      <hr class="light">
+    </div>
+    <div class="row text-left">
+      <div class="col-lg-6 col-md-6">
+        <!-- Add recent proejcts here
+        <p>Ceptr is one of those audacious, world-changing projects which
+          can't be summarized into a shiny catch-phrase, but here are some anyway.</p>
+        <p style="font-weight:bold; font-size:180%;">Ceptr is a:</p><ul>
+          <li class="text-faded">Cooperative framework for distributed applications</li>
+          <li>Quantum leap in large-scale collective social intelligence</li>
+          <li class="text-faded">Peer-to-Peer platform for building new Commons</li>
+          <li>Pluggable protocols that let everything talk to everything</li>
+          <li class="text-faded">Organically organized computing architecture of fractal <b>receptors</b></li>
+        </ul>
+      </div>
+      <div class="col-lg-6 col-md-6">
+        <div class="net-image"></div>
+      </div>
+      <div class="col-lg-6 col-md-6">
+        <p>Breakthroughs in our capacities to communicate and coordinate restructure society.
+          Language birthed culture and hunter-gatherer tribes. Writing forged kingdoms and
+          agriculture-age empires. Printing enabled nations and industrial-age economies. </p>
+        <p>The Internet launched a new restructuring of society, but is constrained by
+          computing tech designed for centralized control. Learning from nature's blueprints,
+          Ceptr provides an evolvable, fully distributed framework for coordination and
+          sense-making on all scales.</p>
+      </div> -->
+      <p class="aligncenter"><br /><a href="#projects" class="btn btn-default btn-xl page-scroll sr-button">Go Deeper</a></p>
+    </div>
+  </div>
+</section>
+
+<!-- Projects -->
+<section id="projects">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Go Deeper</h2>
+        <!--  <p>Dig into some sub-projects to grasp Ceptr's capacities:</p> -->
+        <hr class="primary">
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      {% assign publications =  site.publications | sort: 'navigation_weight'%}
+      {% for p in publications %}
+        <div class="col-lg-4 col-md-6 text-center">
+          <a href="{{p.url}}">
+            <div class="project-box">
+              <i class="fa fa-4x {{p.icon}} text-primary sr-icons"></i>
+              <h3>{{p.title}}</h3>
+              <p class="text-muted">{% if p.home_page_description %}{{p.home_page_description}}{% else %}{{p.purpose}}{% endif %}</p>
+            </div></a>
+        </div>
+      {% endfor %}
+      <p class="aligncenter"><a href="#videos" class="btn btn-primary btn-xl page-scroll sr-button">Dive In</a></p>
+    </div>
+  </div>
+</section>
+
+<!-- Videos -->
+<section id="videos" class="bg-dark">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Walk Through the Ceptr Technology</h2>
+        <hr class="primary">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-6 col-md-6">
+        <a href="/blog/2015-09-24-mitkit-ceptr-webinar" class="image fit"><img src="images/Ceptr_MIT_KIT_Video.png" alt=" " /><span class="text-for-screen-readers">Video of overview of Ceptr</span></a>
+        <h3>MIT/KIT Webinar</h3>
+        <p>DIP YOUR TOES: Good overview of the various parts of Ceptr.</p>
+      </div>
+      <div class="col-lg-6 col-md-6">
+        <a href="/blog/2016-05-04-ceptr-under-the-hood" class="image fit"><img src="images/Ceptr_Under_the_Hood.png" alt=" " /><span class="text-for-screen-readers">Video of deep dive into Ceptr</span></a>
+        <h3>Ceptr Under the Hood</h3>
+        <p>DEEP DIVE: A three hour tour of the entire Ceptr Architecture.</p>
+      </div>
+    </div>
+  </div>
+  <p class="aligncenter"><a href="#get-involved" class="btn btn-default btn-xl page-scroll sr-button">Join Us</a></p>
+</section>
+
+<!-- Get Involved
+<section id="get-involved">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <h2 class="section-heading">Get Involved!</h2>
+        <p>We have developers actively coding in many of the sub-projects. <a href="https://slackin-mkmbtdlhdx.now.sh">Join our Slack Team</a> to jump into the right channels to support tech documentation, back-end development, or front-end UI (We need a lot of UI/UX help!). Back-end systems are built mostly in Go, while front-end application UI is browser-based JavaScript.</p>
+        <p><a class="btn btn-primary btn-xl" href="https://slackin-mkmbtdlhdx.now.sh">Join Our Slack</a>
+          <a class="btn btn-primary btn-xl" href="{{ site.contact_url }}">Chat with us on Gitter</a></p>
+        <img class="image fit" src="/images/road_to_light.jpg" alt=" " />
+        <h3>Other Ways to Participate</h3>
+        <p>Ceptr is open source and funded only by the sweat of our team (as of January 2017 -- this could change soon).
+          If you like what you see, but <b>are not so technical</b>, visit the <a href="http://metacurrency.org">MetaCurrency Project</a>
+          for other ways to participate.</p>
+
+        <p><a class="btn btn-primary btn-xl" href="http://github.com/metacurrency/ceptr-org/wiki">Participate & Explore</a></p>
+      </div>
+      <div class="col-lg-4">
+        <h2>Special Event</h2>
+        <a class="btn btn-primary btn-xl" href="/hackathons">Holochain Hackathon</a>
+        <br /><hr>
+      </div>
+      <div class="col-lg-4">
+        <iframe src="https://calendar.google.com/calendar/embed?title=Ceptr%20Activities%20%26%20Meetings&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=350&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=lub4m2tj4osqq82jqog6kv46cs%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=America%2FSan_Francisco"
+                style="border-width:0" width="350" height="650" frameborder="0" scrolling="no"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+-->
