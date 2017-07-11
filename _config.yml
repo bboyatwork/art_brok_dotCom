@@ -47,10 +47,10 @@ collections:
     output: true
   projects:
     output: true
-    permalink: /projects/:slug
+    permalink: /projects/:path
   participate:
     output: true
-    permalink: participate/:slug
+    permalink: /participate/:slug
   publications:
     output: true
-    permalink: publications/:slug
+    permalink: /publications/:path
