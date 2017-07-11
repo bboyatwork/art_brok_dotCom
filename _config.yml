@@ -18,8 +18,8 @@ email: ceptr@metacurrency.org
 description: > # this means to ignore newlines until "baseurl:"
   Ceptr is a platform for next-gen networking, providing a protocol for pluggable protocols,
   distributed data integrity on Holochains, and truly distributed application hosting
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ceptr.org" # the base hostname & protocol for your site
+baseurl: "/art_brok_dotCom/" # the subpath of your site, e.g. /blog/
+url: "https://bboyatwork.github.io" # the base hostname & protocol for your site
 locale: "en-US"
 contact_url: "https://gitter.im/metacurrency/holochain"
 twitter_username: metacurrency
