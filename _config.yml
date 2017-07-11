@@ -50,7 +50,7 @@ collections:
     permalink: /projects/:slug
   participate:
     output: true
-    permalink: /participate/:slug
+    permalink: participate/:slug
   publications:
     output: true
-    permalink: /publications/:slug
+    permalink: publications/:slug
