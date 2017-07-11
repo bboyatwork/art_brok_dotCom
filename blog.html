@@ -41,9 +41,11 @@ description: News, Resources, and Reflections
                               {% endif %}
                               </post-meta>
             </div>
-            <div class="pull-right">
-              <post-meta class="author">
-                {% if post.author %} <a href="{{post.author_url}}">{{ post.author }}</a>  • {% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</post-meta>
+            <br>
+            <br>
+            <div>
+              <!-- <post-meta class="author">
+                {% if post.author %} <a href="{{post.author_url}}">{{ post.author }}</a>  • {% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</post-meta> -->
               <post-meta class="post-date">
                 {{ post.date | date: "%d %B %Y" }}
               </post-meta>
@@ -55,7 +57,7 @@ description: News, Resources, and Reflections
               <p>
                 {{ post.excerpt }}
               </p>
-              <p class="text-right read-more">
+              <p class="text-left read-more">
                 <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-xl">Read More</a></p>
             </div>
 	  </li>
