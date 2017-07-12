@@ -529,6 +529,7 @@ input[type="submit"] {
 
 .search {
   margin: 0 auto;
+
 }
 
 .search-form .btn {
@@ -568,4 +569,21 @@ input[type="submit"] {
 
 #search-results p {
   text-align: justify;
+}
+
+@media(min-width:992px) {
+  .sticky-search {
+    position: fixed;
+    top: 300px;
+    right: 55px;
+  }
+  .backToTop {
+    position: fixed;
+    top: 550px;
+    right: 55px;
+  }
+}
+
+.backToTop {
+
 }
