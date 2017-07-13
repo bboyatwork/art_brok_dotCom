@@ -51,6 +51,6 @@ collections:
   participate:
     output: true
     permalink: /participate/:slug
-  publications:
+  deeper:
     output: true
-    permalink: /publications/:path
+    permalink: /deeper/:path
