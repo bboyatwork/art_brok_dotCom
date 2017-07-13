@@ -6,7 +6,7 @@ nav_title: MetaCurrency Project
 navigation_weight: 5
 image: images/metacurrency.png
 purpose: "The MetaCurrency Project is building the tools and technology platforms to open source the next economy."
-home_page_description: "The MetaCurrency Project is building the tools and technology platforms to open source the next economy."
+home_page_description: ""
 tags:
 - current projects
 

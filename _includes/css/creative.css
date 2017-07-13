@@ -269,6 +269,14 @@ header .header-content .header-content-inner p {
   min-height: 240px;
 }
 
+.project-image {
+  height: 165px;
+}
+
+.project-image img {
+  padding-bottom: 30px;
+}
+
 @media(min-width:992px) {
   .project-box {
     margin: 20px auto 0;
