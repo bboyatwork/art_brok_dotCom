@@ -156,6 +156,30 @@ section.project-page h2 {
   display:none;
 }
 
+/* BLOG STYLES */
+
+.blog-posts-homepage {
+  text-align: center;
+  font-size: 2.2rem;
+  list-style-type: none;
+}
+
+.blog-posts-homepage li {
+  padding-bottom: 30px;
+}
+
+@media(min-width:992px) {
+  .sticky-search {
+    position: fixed;
+    top: 300px;
+    right: 55px;
+  }
+  .backToTop {
+    position: fixed;
+    top: 550px;
+    right: 55px;
+  }
+}
 
 /* WHITEPAPER STYLES */
 ul.whitepapers {
