@@ -21,7 +21,7 @@ layout: default
           </div>
         </div>
         <div class="row">
-            {% assign publications =  site.publications | sort: 'navigation_weight'%}
+            {% assign publications =  site.publications %}
             {% for p in publications %}
               <div class="col-lg-4 col-md-6 text-center">
                 <a href="{{p.url}}">

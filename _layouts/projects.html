@@ -12,7 +12,7 @@ layout: default
     {% include nav.html %}
     <!-- default content for this page -->
     <!-- Videos -->
-    <section id="videos" class="bg-light">
+    <section id="projects" class="bg-light">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -37,6 +37,30 @@ layout: default
           </div>
         </div>
     </section>
-
+    <section id="collaborations" class="bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Collaborations</h2>
+            <hr class="primary">
+          </div>
+                  <div class="row">
+            {% assign collaborations =  site.collaborations %}
+            {% for c in collaboration %}
+              <div class="col-lg-4 col-md-6 text-center">
+                <a href="{{c.url}}">
+                  <div class="project-box">
+                    <div class="project-image">
+                      <img src = "{{c.image}}" style="max-width: 400px">
+                   </div>
+                    <h3>{{c.title}}</h3>
+                    <p class="text-muted">{% if c.home_page_description %}{{c.home_page_description}}{% else %}{{c.purpose}}{% endif %}</p>
+                  </div></a>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+     </div>
+    </section>
   </body>
 </html>

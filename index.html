@@ -82,7 +82,7 @@ description: ""
   <div class="container">
     <div class="row">
       <div class="blog-posts-homepage">
-        {% for post in site.posts limit:5 %}  
+        {% for post in site.posts limit:6 %}  
           <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} <br> {{ post.date | date: "%d %B %Y" }}</a></li>  
         {% endfor %}  
       </div>

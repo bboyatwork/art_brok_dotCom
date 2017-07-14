@@ -6,7 +6,7 @@ nav_title: Agile Learning Centers
 navigation_weight: 1
 image: /images/ALCs_web_header.png
 purpose: "Agile Learning Centers are a rapidly-spreading, new model for education that enables schools to adapt to and serve the learning journey of their students, and provide an education that nourishes self-authorship, creativity, and entrepreneurship."
-home_page_description: ""
+home_page_description: "A rapidly-spreading, new model for education that enables schools to adapt to and serve..."
 tags:
 - current projects
 
