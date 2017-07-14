@@ -54,3 +54,6 @@ collections:
   deeper:
     output: true
     permalink: /deeper/:path
+  collaborations:
+    output: true
+    permalink: /collaborations/:slug 

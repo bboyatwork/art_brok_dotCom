@@ -23,7 +23,7 @@ layout: default
         <div class="row">
             {% assign projects =  site.projects | sort: 'navigation_weight'%}
             {% for pj in projects %}
-              <div class="col-lg-4 col-md-6 text-center">
+              <div class="col-lg-6 col-md-6 text-center">
                 <a href="{{pj.url}}">
                   <div class="project-box">
                     <div class="project-image">
@@ -46,15 +46,15 @@ layout: default
           </div>
                   <div class="row">
             {% assign collaborations =  site.collaborations %}
-            {% for c in collaboration %}
-              <div class="col-lg-4 col-md-6 text-center">
-                <a href="{{c.url}}">
+            {% for collab in collaborations %}
+              <div class="col-lg-6 col-md-6 text-center">
+                <a href="{{collab.url}}">
                   <div class="project-box">
                     <div class="project-image">
-                      <img src = "{{c.image}}" style="max-width: 400px">
+                      <img src = "{{collab.image}}" style="max-width: 400px">
                    </div>
-                    <h3>{{c.title}}</h3>
-                    <p class="text-muted">{% if c.home_page_description %}{{c.home_page_description}}{% else %}{{c.purpose}}{% endif %}</p>
+                    <h3>{{collab.title}}</h3>
+                    <p class="text-muted">{% if collab.home_page_description %}{{collab.home_page_description}}{% else %}{{collab.purpose}}{% endif %}</p>
                   </div></a>
               </div>
             {% endfor %}

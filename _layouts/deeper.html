@@ -21,14 +21,14 @@ layout: default
           </div>
         </div>
         <div class="row">
-            {% assign publications =  site.publications %}
-            {% for p in publications %}
+            {% assign deeper =  site.deeper %}
+            {% for content in deeper %}
               <div class="col-lg-4 col-md-6 text-center">
-                <a href="{{p.url}}">
+                <a href="{{content.url}}">
                   <div class="project-box">
                     <i class="fa fa-4x {{p.icon}} text-primary sr-icons"></i>
-                    <h3>{{p.title}}</h3>
-                    <p class="text-muted">{% if p.home_page_description %}{{p.home_page_description}}{% else %}{{p.purpose}}{% endif %}</p>
+                    <h3>{{content.title}}</h3>
+                    <p class="text-muted">{% if content.home_page_description %}{{content.home_page_description}}{% else %}{{content.purpose}}{% endif %}</p>
                   </div></a>
               </div>
             {% endfor %}
