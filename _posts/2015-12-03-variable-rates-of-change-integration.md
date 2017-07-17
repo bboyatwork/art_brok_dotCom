@@ -2,7 +2,7 @@
 layout: post
 title: Variable Rates of Change Integration
 created: 1449193405
-categories:
+tags:
 - reputation
 - evolution
 - currencies
