@@ -2,7 +2,7 @@
 layout: post
 title: We use currencies to keep records of currents...
 created: 1241416800
-categories:
+tags:
 - flows
 - currents
 - currency
