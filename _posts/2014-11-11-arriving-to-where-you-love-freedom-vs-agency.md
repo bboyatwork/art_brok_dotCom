@@ -2,7 +2,7 @@
 layout: post
 title: Arriving to Where you Love (Freedom vs. Agency)
 created: 1415763320
-categories:
+tags:
 - social dna
 - freedom
 - decentralization
