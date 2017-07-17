@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Future of Governance is not Governments
-categories:
+tags:
 - Social Change
 - Governance
 - Social DNA
