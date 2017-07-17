@@ -2,7 +2,7 @@
 layout: post
 title: Why you haven't heard of Ceptr | MetaCurrency has been Underground
 created: 1447746035
-categories:
+tags:
 - metacurrency
 - ceptr
 ---
