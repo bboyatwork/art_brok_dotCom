@@ -2,7 +2,7 @@
 layout: post
 title: ALC Starter Kit
 created: 1446642000
-categories:
+tags:
 - education
 - agile learning centers
 ---
