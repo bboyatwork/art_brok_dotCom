@@ -2,7 +2,7 @@
 layout: post
 title: The Unfolding Story of a Life-Affirming Economy
 created: 1416371891
-categories:
+tags:
 - metacurrency
 - living systems
 - gift economies
