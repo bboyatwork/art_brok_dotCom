@@ -2,7 +2,7 @@
 layout: post
 title: The Laws of Thermodynamics Reinterpreted
 created: 1416459717
-categories:
+tags:
 - upward spirals
 - thermodynamics
 - paradox
