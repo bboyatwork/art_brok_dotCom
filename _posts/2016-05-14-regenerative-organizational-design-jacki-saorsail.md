@@ -2,7 +2,7 @@
 layout: post
 title: Regenerative Organizational Design - Jacki Saorsail
 created: 1463205600
-categories:
+tags:
 - emerging leader labs
 - social change
 - social enterprise incubator
