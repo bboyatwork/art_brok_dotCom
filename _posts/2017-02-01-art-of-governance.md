@@ -2,7 +2,7 @@
 layout: post
 title: The Art of Governance
 created: 2017-02-01
-categories:
+tags:
 - governance
 - self-regulation
 - feedback loops
