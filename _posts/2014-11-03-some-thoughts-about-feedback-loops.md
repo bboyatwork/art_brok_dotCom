@@ -2,7 +2,7 @@
 layout: post
 title: Some Thoughts about Feedback Loops
 created: 1415075039
-categories:
+tags:
 - upward spirals
 - system dynamics
 - living systems
