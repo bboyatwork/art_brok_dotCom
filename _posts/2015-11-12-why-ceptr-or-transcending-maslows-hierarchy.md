@@ -2,7 +2,7 @@
 layout: post
 title: Why Ceptr? or Transcending Maslow's Hierarchy
 created: 1447349495
-categories:
+tags:
 - money
 - language
 - flows
