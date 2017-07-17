@@ -2,7 +2,7 @@
 layout: post
 title: Is there anything that can’t be Monetized?
 created: 1447138459
-categories:
+tags:
 - money
 - industrial age economy
 - deep wealth
