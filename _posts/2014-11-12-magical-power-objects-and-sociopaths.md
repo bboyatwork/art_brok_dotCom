@@ -2,7 +2,7 @@
 layout: post
 title: Magical Power Objects and Sociopaths
 created: 1415854488
-categories:
+tags:
 - power
 - money
 - magic
