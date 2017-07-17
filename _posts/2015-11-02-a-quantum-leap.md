@@ -2,7 +2,7 @@
 layout: post
 title: A Quantum Leap
 created: 1446476211
-categories:
+tags:
 - social change
 - language
 - evolution
