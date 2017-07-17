@@ -2,7 +2,7 @@
 layout: post
 title: Building Meaning through Semantic Alternation
 created: 1417324256
-categories:
+tags:
 - structure
 - semantics
 - meaning
