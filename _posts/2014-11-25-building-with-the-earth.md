@@ -2,7 +2,7 @@
 layout: post
 title: Building with the Earth
 created: 1416891808
-categories:
+tags:
 - intentional community
 - campus
 - building
