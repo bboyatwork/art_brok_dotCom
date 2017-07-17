@@ -2,8 +2,8 @@
 layout: post
 title: Artbrock's Wish List
 created: 1292218068
-categories: []
----
+tags: 
+- personal
 <p>Since I'm not too easy to buy gifts for, this page has been placed here in response to requests for gift ideas for birthday or Christmas.</p>
 
 <h3>Stuff:</h3>
