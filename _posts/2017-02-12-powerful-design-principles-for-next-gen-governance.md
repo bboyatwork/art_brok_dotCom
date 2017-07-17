@@ -12,8 +12,7 @@ author_url: http://artbrock.com
 categories: [post]
 comments: []
 tags:
-- Tag1
-- Tag2
+- governance
 ---
 # Powerful Design Principles
 In [my last post](), I deconstructed a number of core assumptions that we tend to take for granted as true, and that most of our tools of governance are built around. I didn't mean to just stop there without getting to the good news, but the post was getting long.
