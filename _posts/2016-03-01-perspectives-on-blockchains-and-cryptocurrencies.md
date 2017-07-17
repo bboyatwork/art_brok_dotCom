@@ -2,7 +2,7 @@
 layout: post
 title: Perspectives on Blockchains and Cryptocurrencies
 created: 1456850820
-categories:
+tags:
 - distributed systems
 - currencies
 - crypto
