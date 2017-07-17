@@ -2,7 +2,7 @@
 layout: post
 title: An EXPLOSION of new writing!
 created: 1414897963
-categories:
+tags:
 - sharing
 - learning cycles
 - agile learning centers
