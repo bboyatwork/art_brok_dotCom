@@ -2,7 +2,7 @@
 layout: post
 title: Value, Values and the New Economy
 created: 1239170400
-categories:
+tags:
 - new economy
 - flow
 - currents
