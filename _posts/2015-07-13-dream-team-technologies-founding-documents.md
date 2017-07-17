@@ -2,7 +2,7 @@
 layout: post
 title: Dream Team Technologies Founding Documents
 created: 1436801301
-categories:
+tags:
 - inspiration
 - design
 - vision
