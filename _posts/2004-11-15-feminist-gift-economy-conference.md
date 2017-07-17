@@ -2,7 +2,7 @@
 layout: post
 title: Feminist Gift Economy Conference
 created: 1100563740
-categories:
+tags:
 - gift economies
 - currencies
 ---
