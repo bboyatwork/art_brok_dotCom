@@ -2,7 +2,7 @@
 layout: post
 title: Who should issue our currency?
 created: 1414898758
-categories:
+tags:
 - money
 - decentralization
 - currencies
