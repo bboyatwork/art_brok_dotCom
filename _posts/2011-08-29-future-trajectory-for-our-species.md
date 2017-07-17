@@ -2,7 +2,7 @@
 layout: post
 title: Future trajectory for our species?
 created: 1314642008
-categories:
+tags:
 - social dna
 - new economy
 - evolution
