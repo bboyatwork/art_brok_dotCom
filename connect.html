@@ -1,0 +1,45 @@
+---
+layout: default
+title: Connect
+navigation_weight: 1
+permalink: /connect/
+description: ""
+---
+<header>
+  <div class="header-content">
+    <div class="header-content-inner">
+      <h1 class="home-heading">Art Brock</h1>
+      <hr style="margin-bottom: 1em;"/>
+      <p class="header-text">Arthur Brock builds targeted currencies which shape the social dynamics of our emerging post-industrial economy.<br><br>"I believe that humanity has much greater capacities than we currently employ. I am working to unleash those capacities for the mutual benefit of all."</p>
+      <p><a href="#about" class="btn btn-primary btn-xl page-scroll">Explore</a></p>
+    </div>
+  </div>
+</header>
+<section class="bg-light" id="about">
+  <div class="container">
+    <div class="row text-center">
+      <h2 class="section-heading">Recent Projects</h2>
+      <hr class="light">
+    </div>
+    <div class="row">
+      {% assign projects =  site.projects | sort: 'navigation_weight'%}
+      {% for pj in projects %}
+      <div class="col-lg-4 col-md-6 text-center">
+        <a href="{{pj.url}}">
+          <div class="project-box">
+            <!--<i class="fa fa-4x {{pj.icon}} text-primary sr-icons"></i>-->
+            <div class="project-image">
+              <img src = "{{pj.image}}" style="max-width: 400px">
+            </div>
+            <h3>{{pj.title}}</h3>
+            <p class="text-muted">{% if pj.home_page_description %}{{pj.home_page_description}}{% else %}{{pj.purpose}}{% endif %}</p>
+          </div></a>
+      </div>
+    {% endfor %}
+
+      <p class="aligncenter"><br /><a href="#projects" class="btn btn-default btn-xl page-scroll sr-button">Recent Blogs</a></p>
+    </div>
+  </div>
+</section>
+
+

@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ceptr
-email: ceptr@metacurrency.org
+title: Art Brock
+email: artbrock@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ceptr is a platform for next-gen networking, providing a protocol for pluggable protocols,
-  distributed data integrity on Holochains, and truly distributed application hosting
+  Arthur Brock builds targeted currencies which shape the social dynamics of our emerging post-industrial economy.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://artbrock.com" # the base hostname & protocol for your site
 locale: "en-US"
-contact_url: "https://gitter.im/metacurrency/holochain"
+contact_url: "/connect/"
 twitter_username: metacurrency
 github_username:  metacurrency
 
@@ -51,9 +50,32 @@ collections:
   participate:
     output: true
     permalink: /participate/:slug
-  deeper:
-    output: true
-    permalink: /deeper/:path
   collaborations:
     output: true
     permalink: /collaborations/:slug 
+  deeper:
+    output: true
+    permalink: /deeper/:path
+  videos:
+    output: true
+    permalink: /videos/:path
+  presentations:
+    output: true
+    permalink: /presentations/:path
+  audio:
+    output: true
+    permalink: /audio/:path
+  publications:
+    output: true
+    permalink: /publications/:slug 
+  news:
+    output: true
+    permalink: /news/:slug
+  resources:
+    output: true
+    permalink: /resources/:slug
+  connect:
+    output: true
+    permalink: /connect/ 
+
+

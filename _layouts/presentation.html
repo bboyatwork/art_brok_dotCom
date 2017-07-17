@@ -4,7 +4,7 @@ comments: true
 ---
 <section id="header" class="std-page">
   <div class="text-center">
-    <h1>Art's Blog</h1>
+
   </div>
 </section>
 <section id="blog" class="blog">
@@ -16,25 +16,7 @@ comments: true
             <a href="{{ site.baseurl }}/blog?tag={{tag|url_escape}}" class="tag">{{tag}}</a>
           {% endfor %}
         </post-meta>
-        <div class="pull-left">
-          <post-meta class="read-time">Read Time:
-            {% assign words = content | number_of_words %}
-            {% if words < 360 %}
-              1 min
-            {% else %}
-              {{ words | divided_by: 180 }} mins
-            {% endif %}
-          </post-meta>
-        </div>
-        <br>
-        <br>
-        <div>
-          <!-- <post-meta class="author">
-            {% if page.author %} <a href="{{page.author_url}}">{{ page.author }}</a>  • {% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</post-meta> -->
-          <post-meta class="post-date">
-            {{ page.date | date: "%d %B %Y" }}
-          </post-meta>
-        </div>
+
       </div>
     </div>
     <div class="row">
