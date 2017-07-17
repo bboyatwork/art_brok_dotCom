@@ -2,7 +2,7 @@
 layout: post
 title: 'Ceptr Design: Receptive Capacity Breakthrough'
 created: 1417025664
-categories:
+tags:
 - receptive capacity
 - language
 - design
