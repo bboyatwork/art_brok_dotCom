@@ -2,7 +2,7 @@
 layout: post
 title: Gift Transactions vs. Commercial Transactions
 created: 1298340675
-categories:
+tags:
 - open currency
 - new economy
 - gifts
