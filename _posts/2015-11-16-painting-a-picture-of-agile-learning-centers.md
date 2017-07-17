@@ -2,7 +2,7 @@
 layout: post
 title: Painting a picture of Agile Learning Centers
 created: 1447650498
-categories:
+tags:
 - agile learning centers
 - 21st century learning
 - learning
