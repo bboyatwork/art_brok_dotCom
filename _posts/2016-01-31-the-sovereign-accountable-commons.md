@@ -2,7 +2,7 @@
 layout: post
 title: The Sovereign Accountable Commons
 created: 1454282387
-categories:
+tags:
 - sovereingty
 - reputation
 - mutual sovereignty
