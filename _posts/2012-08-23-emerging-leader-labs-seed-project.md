@@ -2,7 +2,7 @@
 layout: post
 title: Emerging Leader Labs - Seed Project
 created: 1345744757
-categories:
+tags:
 - social impact
 - social enterprise incubator
 - gifts
