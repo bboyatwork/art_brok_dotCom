@@ -2,7 +2,7 @@
 layout: post
 title: 'Users for Sale: Has Digital Illiteracy Turned Us Into Social Commodities?'
 created: 1311136248
-categories:
+tags:
 - social networks
 - next-net
 - metacurrency
