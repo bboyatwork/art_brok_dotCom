@@ -2,7 +2,7 @@
 layout: post
 title: What I’m Learning from Publishing Daily
 created: 1416805174
-categories:
+tags:
 - writing
 - reflections
 - productivity hacks
