@@ -2,7 +2,7 @@
 layout: post
 title: Integrity as Important as Profit
 created: 1463353404
-categories:
+tags:
 - ethics
 - business
 - awards
