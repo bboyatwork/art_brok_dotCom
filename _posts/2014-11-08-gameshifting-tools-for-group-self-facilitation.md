@@ -2,7 +2,7 @@
 layout: post
 title: GameShifting tools for Group Self-Facilitation
 created: 1415422835
-categories:
+tags:
 - social dna
 - polymorphism
 - gameshifting
