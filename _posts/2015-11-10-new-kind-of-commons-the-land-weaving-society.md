@@ -2,7 +2,7 @@
 layout: post
 title: 'New Kind of Commons: The Land Weaving Society'
 created: 1447138800
-categories:
+tags:
 - new economy
 - gift economies
 - deep wealth
