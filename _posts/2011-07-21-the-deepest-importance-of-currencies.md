@@ -2,7 +2,7 @@
 layout: post
 title: The Deepest Importance of Currencies
 created: 1311269207
-categories:
+tags:
 - social dna
 - living systems
 - currency
