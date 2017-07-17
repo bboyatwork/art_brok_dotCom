@@ -2,7 +2,7 @@
 layout: post
 title: The End of a Month of Daily Publishing & Loose Ends
 created: 1417409901
-categories:
+tags:
 - writing
 - publishing
 - commitment
