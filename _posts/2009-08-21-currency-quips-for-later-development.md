@@ -2,7 +2,7 @@
 layout: post
 title: Currency Quips for Later Development
 created: 1250834400
-categories:
+tags:
 - social contracts
 - money
 - gifts
