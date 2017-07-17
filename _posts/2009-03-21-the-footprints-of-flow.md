@@ -2,7 +2,7 @@
 layout: post
 title: The Footprints of Flow
 created: 1237615200
-categories:
+tags:
 - open source software
 - metacurrency
 - intrinsic integrity
