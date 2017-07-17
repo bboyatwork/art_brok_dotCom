@@ -2,7 +2,7 @@
 layout: post
 title: Differences Between "Open Source" and "Open Currency"
 created: 1242108000
-categories:
+tags:
 - twollars
 - open source software
 - open data
