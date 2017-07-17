@@ -2,7 +2,7 @@
 layout: post
 title: Money Can't Buy You Love...or Trust.
 created: 1295593200
-categories:
+tags:
 - relationship economy
 - gifts
 - trust
