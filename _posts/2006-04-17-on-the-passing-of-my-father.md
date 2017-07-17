@@ -2,7 +2,7 @@
 layout: post
 title: On the passing of my father...
 created: 1145264400
-categories:
+tags:
 - personal
 - family
 - death
