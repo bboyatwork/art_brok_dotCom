@@ -2,7 +2,7 @@
 layout: post
 title: A New MySpace Experiment (new for me, anyway)
 created: 1137879655
-categories:
+tags:
 - writing
 - currencies
 ---
