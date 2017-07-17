@@ -2,7 +2,7 @@
 layout: post
 title: Those Kids and Their Darn Gadgets <grumble...grumble>
 created: 1415336427
-categories:
+tags:
 - learning cycles
 - learning
 - evolution
