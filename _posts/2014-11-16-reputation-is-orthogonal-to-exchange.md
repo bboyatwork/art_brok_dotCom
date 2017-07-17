@@ -2,7 +2,7 @@
 layout: post
 title: Reputation is Orthogonal to Exchange
 created: 1416114206
-categories:
+tags:
 - reputation
 - gift economies
 - exchange
