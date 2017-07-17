@@ -2,7 +2,7 @@
 layout: post
 title: Hacking my Productivity
 created: 1416542937
-categories:
+tags:
 - productivity hacks
 - personal
 - learning cycles
