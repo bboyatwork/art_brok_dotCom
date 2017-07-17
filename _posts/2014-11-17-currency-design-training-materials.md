@@ -2,7 +2,7 @@
 layout: post
 title: Currency Design Training Materials
 created: 1416286255
-categories:
+tags:
 - currency design
 - currencies
 ---
