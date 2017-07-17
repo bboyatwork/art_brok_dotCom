@@ -2,7 +2,7 @@
 layout: post
 title: ALCs as NextGen Self-Directed Learning (Pt.1)
 created: 1446706800
-categories:
+tags:
 - learning
 - education
 - agile learning centers
