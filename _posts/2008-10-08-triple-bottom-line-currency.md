@@ -2,7 +2,7 @@
 layout: post
 title: Triple Bottom Line Currency
 created: 1223445600
-categories:
+tags:
 - triple bottom line
 - design
 - currency
