@@ -2,7 +2,7 @@
 layout: post
 title: Fantasies, Dreams, Harebrained Schemes
 created: 1415940952
-categories:
+tags:
 - metacurrency
 - magic
 - gift economies
