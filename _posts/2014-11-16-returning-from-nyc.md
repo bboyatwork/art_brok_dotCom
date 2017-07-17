@@ -2,7 +2,7 @@
 layout: post
 title: Returning from NYC
 created: 1416196511
-categories:
+tags:
 - personal
 - news
 ---
