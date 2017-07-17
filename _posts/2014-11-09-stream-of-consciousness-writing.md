@@ -2,7 +2,7 @@
 layout: post
 title: Stream of Consciousness Writing
 created: 1415594952
-categories:
+tags:
 - writing
 - sharing
 - self-expression
