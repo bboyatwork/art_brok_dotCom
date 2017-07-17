@@ -12,10 +12,11 @@ author_url: http://artbrock.com
 categories: [post]
 comments: []
 tags:
-- Tag1
-- Tag2
+- currency
+- governance
+- community
 ---
-## Ferananda
+### Ferananda
 What if there was a currency that could be used to enslave you, without you even realizing it? Wouldn't you want to know? Wouldn't you want to learn to see how it works? How it does that?
 Guess what? That's how the existing monetary system works because of rules that are invisible to most of us.
 
@@ -28,7 +29,7 @@ How is that outcome written into the rules? Each person just takes their turn, r
 These are the rules at the level of tokens and players, but what are "social physics" they create? The forces, as reliable as gravity, that are at play...										
 In this video, we want to: 1) show you the two levels that currencies operate on, 2) how to see the rules and patterns on each level, and hopefully, 3) awaken the currency designer in you with the capability to build currencies that help build a world we all want to live in.										
 
-## Arthur
+### Arthur
 We're going to start by expanding our understanding of "CURRENCY" to be something much bigger and more powerful than "money."
 We already know money is powerful, but if you truly understand how we're using the word currency, you'll have access to something even bigger.		
 
@@ -81,7 +82,7 @@ If you want to change the behavior of a corporation and all the people in it, al
 
 Let's see what this looks like...										
 
-## Ferananda
+### Ferananda
 You go to the DMV to get a drivers license. Even though you might be able to prove to a person behind the counter that you can drive, they won't give you a license without a special kind of currency.										
 You need a birth certificate, passport, or license from another state. 										
 Even though the human your interacting with can obviously see you, the state cannot. The State "sees" your existence by virtue of those forms identifying currencies.										
@@ -92,7 +93,7 @@ We can't really interact with something if we can't "see" it. Social organisms c
 
 So how do these currencies work?	
 
-## Arthur
+### Arthur
 Let's go back to the two levels. 1) The currency tokens or symbols themselves. 2) The system which establishes and maintains the rules for the curreny tokens. 										
 Each of these levels follow a specific pattern. Knowing what's involved with these patterns is one of your tickets in to SEE forces controlling the players and plays.										
 1. Currency Token Life Cycle: Rules for a) Issuance b) Transaction c) Interplay with other currencies d) Expiration, Redemption, Retiremernt										
@@ -104,7 +105,7 @@ When you know the life cycle of currency tokens you can identify the rules that 
 Everyone can create value, but if you make it illegal for any but a small group to create money (counterfeiting), you can use that ability to issue money, to control the everyone's value										
 Take dollars for example, most people only know the rules for the transaction phase. They don't know who issues them (bankers) or how (as loans and accounting for deposits as asset not lability). Or realize when you pay back principle on a loan, those dollars are being retired. Or that the cash sitting in a bank's vault is actually not in circulation... It is parked in limbo, under the bank's guardianship, but not under their ownership. Credit ratings effecting cost and avalability of money, etc. 										
 
-## Ferananda
+### Ferananda
 Obviously the currency token rules establish certain patterns of power by saying how they are created, used, and destroyed, but there's hidden power behind all that. 										
 2. Currency SYSTEM Life Cycle: Who decides the rules of the game? How are they reviewed, changed, or perpetuated? See diagram										
 **Roots:** What are the origins of the system? Who conceived, designed, or built it? All currencies have historical and political origins. What agenda was it designed to serve? For whom?									
@@ -115,7 +116,7 @@ Obviously the currency token rules establish certain patterns of power by saying
 You may have already figured this out, but it is worth making explicit, the people in the role of governance at the system level, essentially control the dynamics on both levels.										
 Given most people aren't aware of much beyond the transaction domain on the token level, most folks need to dig a lot deeper to see the full spectrum of currency dynamics										
 
-## Art
+### Art
 Before we go even deeper, let's look at some currency innovations, and their blind spots, to see why this matters so much.										
 Community Currencies: Most community currencies express an economic ideology of a small group in the governance role. They may object to centralized issuance and opt for mutual credit. Or they don't like debt, and do a value backed scheme. Or they don't like the growth imperative which comes from issuing all money as debt which bears interest. Occasionally, someone will swing way out there and set a value reference to hours and maybe even remove pricing (1 hr = 1 hr).										
 Cryptocurrencies: Most cryptocurrencies encode a monetary function as envisioned by an individual or small group in the governance role. They typically object to centralized issuance by fiat, choosing instead to implement semi-randomized issuance by fiat using a PoW or PoS. They also implement transparent accounting on a blockchain, which they consider decentralized because there is not one master copy, everyone that can afford the cost of the hardware has a full copy of the whole economy.										
@@ -124,14 +125,14 @@ They duplicate the artificial scarcity of interest with requiring massive comput
 These systems are stuck in a monetary frame, completely missing the boat on Current-Sees as nervous systems of social organisms.										
 So... how do we go beyond the monetary frame?										
 
-## Fer
+### Fer
 To open our vision a little wider let's look a "wealth." Just as we expanded our perception of currency, we need to expand our understanding of wealth.										
 We typically think of wealth as accumulating lots of riches. 					But Wealth is not about accumulation -- any more than health is about maximizing your weight					
 Wealth is about capacity: To move things to where they're needed. To solve problems. To provide for a quality of life or experience. The resilience to adapt to change.										
 Wealth isn't an individual bank balance, it is the collective configuration which enables healthy patterns of flow. It is truly COMMONwealth.										
 Think about it as economic health. Your health is not about having massive stockpiles of calories, but strength, speed, flexibility, resilience to adverse circumstances.			
 
-## Art							
+### Art							
 Every living system, whether a cell, a human, an ecosystem, a corporation, or an economy has particular dimensions thru which we can see patterns of flow.										
 These different dimensions use different type of currencies as signaling systems for maintaining healthy patterns of flow.										
 Separate from the living system is the speculative economy... the gambling market about the living systems. We've mistaken those gambling chips, like dollars, for real wealth.										
@@ -148,7 +149,7 @@ Maps are extremely useful ! Especially when we want to arrange or coordinate col
 But unlike a paper map which is an object, currency tokens also flow, so they create living maps that we are always responding to and interacting with.										
 So what kind of wealth or capacites are you trying to create? And what kind of living map will enable people to orchestrate themselves into that healthy pattern?										
 
-## Fer
+### Fer
 My hope is that this has cracked open new possibilities and perspectives on the power of currencies...										
 ...and specifically how currencies shape the capacities of social organisms like corporations and economies, because the patterns we've been using are wreaking some havoc									
 
