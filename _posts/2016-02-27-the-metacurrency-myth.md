@@ -2,7 +2,7 @@
 layout: post
 title: The MetaCurrency Myth
 created: 1456631010
-categories:
+tags:
 - vision
 - currencies
 - ceptr
