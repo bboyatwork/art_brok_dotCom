@@ -2,7 +2,7 @@
 layout: post
 title: Living in Community
 created: 1416977891
-categories:
+tags:
 - social contracts
 - lifestyle
 - intentional community
