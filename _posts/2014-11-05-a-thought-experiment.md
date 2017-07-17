@@ -2,7 +2,7 @@
 layout: post
 title: A Thought Experiment
 created: 1415249713
-categories:
+tags:
 - social dna
 - living systems
 - language
