@@ -2,7 +2,7 @@
 layout: post
 title: 'Critical reasons to expand our perception of Currencies '
 created: 1256796000
-categories:
+tags:
 - money
 - currencies
 - social dna
