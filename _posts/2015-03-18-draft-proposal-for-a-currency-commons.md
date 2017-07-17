@@ -2,7 +2,7 @@
 layout: post
 title: Draft Proposal for a Currency Commons
 created: 1426702343
-categories:
+tags:
 - reputation
 - currencies
 - community of practice
