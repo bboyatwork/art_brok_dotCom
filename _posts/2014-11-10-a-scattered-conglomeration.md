@@ -2,7 +2,7 @@
 layout: post
 title: A Scattered Conglomeration
 created: 1415680776
-categories:
+tags:
 - writing
 - ceptr
 - agile learning centers
