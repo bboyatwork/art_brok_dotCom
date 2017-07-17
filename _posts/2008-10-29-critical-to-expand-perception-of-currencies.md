@@ -2,7 +2,7 @@
 layout: post
 title: Critical to expand perception of Currencies
 created: 1225260000
-categories:
+tags:
 - currency
 - dna
 - design
