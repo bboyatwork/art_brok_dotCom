@@ -2,7 +2,7 @@
 layout: post
 title: 'Designing for Social Flows: Designing Incentives.'
 created: 1433208683
-categories:
+tags:
 - flows
 - currency design
 - incentives
