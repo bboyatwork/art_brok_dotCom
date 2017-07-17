@@ -3,7 +3,8 @@ layout: post
 title: A World Without Small Business
 created: 1209189600
 tags: []
--business
+- business
+- government
 <p>Ashley Kingsley originally posted<a href="http://ashleyslist.blogspirit.com/archive/2006/04/05/the-world-without-small-business.html"> this article</a> and David Sandusky started some discussion of it <a href="http://www.yourbrandplan.com/forum/business-needs-opportunities/644-world-without-small-business.html">here </a>where I posted this response.<br>
 <br>
 Some of us are actively doing something about this.<br>
