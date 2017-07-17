@@ -2,7 +2,7 @@
 layout: post
 title: Financing for Local Business
 created: 1433209334
-categories:
+tags:
 - local currency
 - relocalization
 - financing
