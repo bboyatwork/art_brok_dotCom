@@ -2,7 +2,7 @@
 layout: post
 title: New Speech-Act Spaces
 created: 1447832656
-categories:
+tags:
 - language
 - ceptr
 - mutual sovereignty
