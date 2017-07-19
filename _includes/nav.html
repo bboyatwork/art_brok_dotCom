@@ -34,7 +34,7 @@
         </li> -->
 
         {% assign navigation_pages = site.html_pages | where_exp:"item","item.title != 'Home'" | where_exp:"item","item.title != 'Sorry...'" | where_exp:"item","item.title != 'Videos'" |
-        where_exp:"item","item.title != 'Contact'" | where_exp:"item","item.title != 'Audio'" |where_exp:"item","item.title != 'Presentations'" | sort: 'navigation_weight' %}
+        where_exp:"item","item.title != 'Connect'" | where_exp:"item","item.title != 'Audio'" |where_exp:"item","item.title != 'Presentations'" | sort: 'navigation_weight' %}
         {% for p in navigation_pages %}
           {% if p.navigation_weight %}
             {% assign s = page.url | split: "/" %}
@@ -50,7 +50,7 @@
         {% endfor %}
 
         <li>
-          <a href="{{site.contact_url}}"> Contact </a>
+          <a href="{{site.contact_url}}"> Connect </a>
         </li>
       </ul>
     </div>
