@@ -389,3 +389,19 @@ ul.alt li:first-child {
   height: 1px;
   overflow: hidden;
 }
+
+.avatar {
+    margin: auto;
+  }
+
+@media(min-width: 700px){
+  
+  .avatar {
+  margin:10px; 
+  float:left; 
+  padding-right:25px
+  }
+
+}
+
+
