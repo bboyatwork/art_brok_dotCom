@@ -38,7 +38,7 @@ exclude:
 collections:
   posts:
     output: true
-    permalink: /blog/:path
+    permalink: /art_brok_dotCom/blog/:path
   whitepapers:
     output: true
     permalink: /whitepapers/:slug
@@ -46,7 +46,7 @@ collections:
     output: true
   projects:
     output: true
-    permalink: /projects/:path
+    permalink: /art_brok_dotCom/projects/:path
   participate:
     output: true
     permalink: /participate/:slug
@@ -55,27 +55,27 @@ collections:
     permalink: /collaborations/:slug 
   deeper:
     output: true
-    permalink: /deeper/:path
+    permalink: /art_brok_dotCom/deeper/:path
   videos:
     output: true
-    permalink: /videos/:path
+    permalink: /art_brok_dotCom/videos/:path
   presentations:
     output: true
-    permalink: /presentations/:path
+    permalink: /art_brok_dotCom/presentations/:path
   audio:
     output: true
-    permalink: /audio/:path
+    permalink: /art_brok_dotCom/audio/:path
   publications:
     output: true
-    permalink: /publications/:slug 
+    permalink: /art_brok_dotCom/publications/:slug 
   news:
     output: true
-    permalink: /news/:slug
+    permalink: /art_brok_dotCom/news/:slug
   resources:
     output: true
-    permalink: /resources/:slug
+    permalink: /art_brok_dotCom/resources/:slug
   connect:
     output: true
-    permalink: /connect/ 
+    permalink: /art_brok_dotCom/connect/ 
 
 
