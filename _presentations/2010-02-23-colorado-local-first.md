@@ -1,6 +1,12 @@
 ---
-layout: post
+layout: presentation
+status: publish
 title: Colorado Local First
+sub-title:
+icon: fa-desktop
+slug: colorado-local-first
+authors:
+  "Arthur Brock": artbrock.com
 created: 1266969725
 categories: []
 ---

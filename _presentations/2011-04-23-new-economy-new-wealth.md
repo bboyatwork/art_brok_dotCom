@@ -1,8 +1,16 @@
 ---
-layout: post
+layout: presentation
+status: publish
+published: true
 title: New Economy, New Wealth
+sub-title:
+icon: fa-desktop
+slug: new-economy-new-wealth
+authors:
+  "Arthur Brock": artbrock.com
 created: 1303602073
-categories: []
+tags:
+
 ---
 <div class="prezi-player">
 <style media="screen" type="text/css">

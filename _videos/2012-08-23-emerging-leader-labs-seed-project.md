@@ -1,13 +1,21 @@
 ---
-layout: post
+layout: video
+status: publish
+published: true
 title: Emerging Leader Labs - Seed Project
+sub-title:
 created: 1345744757
+icon: fa-youtube-play
+slug: emerging-leader-labs-seed-project
+authors:
+  "Arthur Brock": artbrock.com
 tags:
 - social impact
 - social enterprise incubator
 - gifts
 - gift economies
 - commonwealth
+
 ---
 <p>I'm way overdue for an update here. I have about 20 partially written posts that I've just never finished. I guess I just need to put them up however they stand. <br />
 <br />

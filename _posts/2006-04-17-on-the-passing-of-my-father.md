@@ -1,7 +1,14 @@
 ---
-layout: post
+layout: presentation
+status: publish
+published: true
 title: On the passing of my father...
+sub-title:
+icon: fa-presentation
 created: 1145264400
+slug: on-the-passing-of-my-father
+authors:
+  "Aruthur Brock": artbrock.com
 tags:
 - personal
 - family

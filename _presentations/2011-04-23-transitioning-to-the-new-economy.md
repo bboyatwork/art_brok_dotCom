@@ -1,8 +1,15 @@
 ---
-layout: post
+layout: presentation
+status: publish
+published: true
 title: Transitioning to the New Economy
+sub-title:
+icon: fa-desktop
+slug: transitioning-to-the-new-economy
+authors:
+  "Arthur Brock": artbrock.com
 created: 1303603176
-categories: []
+
 ---
 <div class="prezi-player">
 <style media="screen" type="text/css">
