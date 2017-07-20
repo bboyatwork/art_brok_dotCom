@@ -178,6 +178,7 @@ section.project-page h2 {
     position: fixed;
     top: 550px;
     right: 55px;
+    opacity: 1;
   }
 }
 

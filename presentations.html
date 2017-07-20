@@ -51,7 +51,7 @@ description: Presentations & Prezis
           <div class="col-md-11 col-md-offset-1">
             <h3>Tags:</h3>
             <post-meta class="tags">
-              {% for tag in site.tags %}
+              {% for tag in site.tags limit 10 %}
               {% assign t = tag | first %}
               <a href="{{ site.baseurl }}/bog?tag={{t|url_escape}}" class="tag">{{t}}</a>
               {% endfor %}
