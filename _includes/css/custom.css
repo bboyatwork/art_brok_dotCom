@@ -1,5 +1,7 @@
 nav .container-fluid {
-  background: rgba(76, 76, 76, .3);
+   background-image: -webkit-linear-gradient(left, darkorange, #00FDFF);
+    background-image: -o-linear-gradient(left, darkorange, #00FDFF);
+    background-image: linear-gradient(to right, darkorange, #00FDFF);
 }
 
 .hidden {
