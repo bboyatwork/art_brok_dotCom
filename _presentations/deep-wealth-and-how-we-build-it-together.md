@@ -2,6 +2,7 @@
 layout: presentation
 status: publish
 published: true
+date:   2015-11-13
 title: Deep Wealth & How we Build it Together
 sub-title:
 slug: deep-wealth
@@ -11,7 +12,6 @@ excerpt: "A brief recap of the principles of Deep Wealth, how to 'see' it and bu
 tags:
 - deep wealth
 comments: []
-navigation_weight: 1
 icon: fa-desktop
 ---
 <p>A brief recap of the principles of Deep Wealth, how to "see" it and build it together.</p>

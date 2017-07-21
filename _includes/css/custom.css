@@ -178,6 +178,7 @@ section.project-page h2 {
     position: fixed;
     top: 550px;
     right: 55px;
+    opacity: 1;
   }
 }
 
@@ -389,3 +390,19 @@ ul.alt li:first-child {
   height: 1px;
   overflow: hidden;
 }
+
+.avatar {
+    margin: auto;
+  }
+
+@media(min-width: 700px){
+  
+  .avatar {
+  margin:10px; 
+  float:left; 
+  padding-right:25px
+  }
+
+}
+
+

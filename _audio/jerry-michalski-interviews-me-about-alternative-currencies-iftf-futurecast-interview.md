@@ -2,8 +2,9 @@
 layout: audio
 title: Jerry Michalski interviews me about Alternative Currencies IFTF FutureCast
   Interview
+icon: fa-volume-up
 created: 1463370854
-categories:
+tags:
 - metacurrency
 - currencies
 - reputation
