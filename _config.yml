@@ -21,8 +21,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://artbrock.com" # the base hostname & protocol for your site
 locale: "en-US"
 contact_url: "/connect/"
-twitter_username: metacurrency
-github_username:  metacurrency
+twitter_username: artbrock
+github_username:  artbrock
 
 # Build settings
 markdown: kramdown
@@ -42,6 +42,7 @@ collections:
   whitepapers:
     output: true
     permalink: /whitepapers/:slug
+    permalink: /blog/:slug
   redirects:
     output: true
   projects:
@@ -52,7 +53,7 @@ collections:
     permalink: /participate/:slug
   collaborations:
     output: true
-    permalink: /collaborations/:slug 
+    permalink: /collaborations/:slug
   deeper:
     output: true
     permalink: /deeper/:path

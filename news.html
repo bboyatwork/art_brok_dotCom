@@ -1,10 +1,10 @@
 ---
 layout: search
-title: Presentations
-nav_title: Presentations
+title: In the News
+nav_title: News
 navigation_weight: 1
-permalink: /presentations/
-description: Presentations & Prezis
+permalink: /news/
+description: Articles, Blogs, Press
 ---
 <section class="blog">
   <div class="container">
@@ -24,23 +24,23 @@ description: Presentations & Prezis
         </div>
 
 	<ul id="blog-posts" style="list-style-type: none;padding: 0px;" class="blog-posts">
-	  {% for post in site.presentations %}
+	  {% for news in site.news %}
 	  <li>
             <post-meta class="tags">
-              {% for tag in post.tags %}
+              {% for tag in news.tags %}
               <a href="{{ site.baseurl }}/blog?tag={{tag|url_escape}}" class="tag">{{tag}}</a>
               {% endfor %}
             </post-meta>
 
 	    <h2 class="text-left section-heading">
-	      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+	      <a href="{{ site.baseurl }}{{ news.url }}">{{ news.title }}</a>
 	    </h2>
 	    <div class="post-excerpt">
               <p>
-                {{ post.excerpt }}
+                {{ news.excerpt }}
               </p>
               <p class="text-left read-more">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-xl">See More</a></p>
+                <a href="{{ site.baseurl }}{{ news.url }}" class="btn btn-primary btn-xl">See More</a></p>
             </div>
 	  </li>
 	  {% endfor %}
@@ -49,6 +49,6 @@ description: Presentations & Prezis
       <div class="col-md-4 sticky-search">
       </div>
     </div>
-    <div class="backToTop pagescroll sr-backToTop"><a href="#page-top">Back To Top <i class="fa fa-2x fa-arrow-up"></i></a></div
+    <div class="backToTop pagescroll sr-backToTop"><a href="#page-top">Back To Top <i class="fa fa-2x fa-arrow-up"></i></a></div>
   </div>
 </section>
