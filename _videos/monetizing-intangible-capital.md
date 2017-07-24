@@ -13,7 +13,6 @@ excerpt: <iframe src="https://player.vimeo.com/video/20540756" width="640" heigh
 
 tags:
 - currencies
-comments: []
 ---
 
 <a name="summit1"></a>

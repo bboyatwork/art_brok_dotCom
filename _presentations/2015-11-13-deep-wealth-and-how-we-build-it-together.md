@@ -2,7 +2,7 @@
 layout: presentation
 status: publish
 published: true
-date:   2015-11-13
+created: 1447435303
 title: Deep Wealth & How we Build it Together
 sub-title:
 slug: deep-wealth
