@@ -15,4 +15,7 @@ tags:
 
 
 ---
+
+An amusing and brief interview of some of us currency folks at the Impact Economy Summit
+
 <iframe width="500" height="281" src="https://www.youtube.com/embed/zxL3bPVcMOY" frameborder="0" allowfullscreen></iframe>

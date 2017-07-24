@@ -14,4 +14,7 @@ authors:
 tags:
 - deep wealth
 ---
-<iframe allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/T4uGdpge_Vw" width="500"></iframe><p>At the Impact Economy Summit we had a breakout group exploring the concept of Deep Wealth that I had presented briefly. This is a brief report back.</p>
+
+At the Impact Economy Summit we had a breakout group exploring the concept of Deep Wealth that I had presented briefly. This is a brief report back.
+
+<iframe allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/T4uGdpge_Vw" width="500"></iframe>
