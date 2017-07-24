@@ -12,7 +12,7 @@ authors:
 tags:
 - deep Wealth
 - new economy
-_ metacurrency
+- metacurrency
 ---
 <iframe src="//player.vimeo.com/video/66000237" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/66000237">(42) Art Brock and Eric Harris-Braun - Deep Wealth</a> from <a href="http://vimeo.com/neweconomicsinstitute">New Economics Institute</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 

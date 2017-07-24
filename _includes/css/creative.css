@@ -182,7 +182,7 @@ aside {
  /* AFFIXED to page top during scroll down page */
   .navbar-default.affix .nav > li.active>a,
   .navbar-default.affix .nav > li.active>a:focus {
-    color: #537122;
+    color: #ff00ff;
   }
 
 /*  .navbar-default.affix .nav > li>a:hover,
