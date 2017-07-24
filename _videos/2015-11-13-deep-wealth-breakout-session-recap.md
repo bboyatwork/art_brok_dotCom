@@ -9,7 +9,7 @@ icon: fa-youtube-play
 slug: deep-wealth-breakout-session-receap
 authors:
     "Arthur Brock": artbrock.com
-excerpt: <iframe allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/T4uGdpge_Vw" width="500"></iframe>
+
 
 tags:
 - deep wealth

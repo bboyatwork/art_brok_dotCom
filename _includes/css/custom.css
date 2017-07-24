@@ -18,7 +18,9 @@ nav .container-fluid {
 /* standard page header */
 section.std-page {
   color: #fff;
-  background-image: url(/images/road_to_light.jpg);
+  background-image: -webkit-linear-gradient(left, darkorange, #00FDFF);
+  background-image: -o-linear-gradient(left, darkorange, #00FDFF);
+  background-image: linear-gradient(to right, darkorange, #00FDFF);
   background-position: center;
 }
 
@@ -162,9 +164,9 @@ section#about
     padding: 100px 0px 0px 0px;
 }
 
-section#videos
+section#videos hr
 {
-  padding: 0px 0px 0px 100px;
+  padding-bottom: 25px;
 }
 
 .project-box h3{
@@ -204,6 +206,12 @@ section#videos
 .blog-posts-homepage li {
   padding-bottom: 30px;
 }
+
+.blog-posts-homepage a {
+  
+  color: #f79100;
+}
+
 
 @media(min-width:992px) {
   .sticky-search {

@@ -1,8 +1,13 @@
 ---
 layout: post
 title: Arthur Brock - Transitioning to the New Economy
+sub-title:
 created: 1303660736
-categories:
+icon: fa-youtube-play
+authors:
+  "Arthur Brock": artbrock.com
+
+tags:
 - prezi
 - new economy
 - currency
