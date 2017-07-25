@@ -10,9 +10,9 @@ slug: deep-wealth-breakout-session-receap
 authors:
     "Arthur Brock": artbrock.com
 
-
 tags:
 - deep wealth
+
 ---
 
 At the Impact Economy Summit we had a breakout group exploring the concept of Deep Wealth that I had presented briefly. This is a brief report back.

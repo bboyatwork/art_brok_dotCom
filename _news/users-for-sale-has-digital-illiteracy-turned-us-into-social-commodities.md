@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Users for Sale: Has Digital Illiteracy Turned Us Into Social Commodities?
+title: "Users for Sale: Has Digital Illiteracy Turned Us Into Social Commodities?"
 sub-title:
 created: 1311136248
 icon: fa-newspaper-o

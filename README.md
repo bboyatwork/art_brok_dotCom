@@ -1,9 +1,14 @@
-# ceptr-web
-[Ceptr.org](http://ceptr.org) web pages rendered with jekyll
+# Arthur Brock's Personal Web Site
 
-## Contribution
+This is the source code repository for [Arthur's web site](http://artbrock.com).  
 
-Please feel free to [make suggestions and report bugs](https://github.com/metacurrency/ceptr-web/issues).
+It uses [Jekyll](http://jekyllrb.com) to produce static HTML pages served out by [GitHub](http://github.com) 
+
+Also, there *should* be Disqus discussions on each post for you to **post comments**.
+
+[Let me know]() if anything would make this site more useful.
+
+-art
 
 ## Acknowledgements
 

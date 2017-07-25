@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Where the Game Layer Really Counts: Sharing & Peer Communities
+title: "Where the Game Layer Really Counts: Sharing & Peer Communities"
 sub-title:
 created: 1303595650
 icon: fa-newspaper-o
