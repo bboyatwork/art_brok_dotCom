@@ -39,18 +39,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:path
-  whitepapers:
-    output: true
-    permalink: /whitepapers/:slug
-    permalink: /blog/:slug
-  redirects:
-    output: true
   projects:
     output: true
     permalink: /projects/:path
-  participate:
-    output: true
-    permalink: /participate/:slug
   collaborations:
     output: true
     permalink: /collaborations/:slug
@@ -68,7 +59,7 @@ collections:
     permalink: /audio/:path
   publications:
     output: true
-    permalink: /publications/:slug 
+    permalink: /publications/:slug
   news:
     output: true
     permalink: /news/:slug
@@ -77,6 +68,4 @@ collections:
     permalink: /resources/:slug
   connect:
     output: true
-    permalink: /connect/ 
-
-
+    permalink: /connect/
